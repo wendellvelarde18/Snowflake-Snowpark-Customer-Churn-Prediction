@@ -1,0 +1,8 @@
+*.ipynb
+*.parquet
+config.py
+*.env
+*.pkl
+*.pickle
+*.pdf
+*.zip
